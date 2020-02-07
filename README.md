@@ -15,6 +15,7 @@ Aggregating publicly announced research, projects, and programs around blockchai
 1. [EduCTX: A blockchain-based higher education credit platform](https://www.researchgate.net/publication/320707539_EduCTX_A_blockchain-based_higher_education_credit_platform)
 2. [University of Portsmouth (UK), *Exploiting Smart Contracts and Blockchain Technology: Blueprint for a new AEC Industry* Research Project](https://www.port.ac.uk/study/postgraduate/postgraduate-research/research-degrees/phd/explore-our-projects/exploiting-smart-contracts-and-blockchain-technology-blueprint-for-a-new-aec-industry)
 3. [Deloitte's 2019 Blockchain Survey](https://www2.deloitte.com/content/dam/Deloitte/se/Documents/risk/DI_2019-global-blockchain-survey.pdf)
+4. [University of Cambridge 2nd Global Enterprise Blockchain Benchmarking Study](https://www.jbs.cam.ac.uk/fileadmin/user_upload/research/centres/alternative-finance/downloads/2019-ccaf-second-global-enterprise-blockchain-report.pdf) 2019
 
 
 ### List of University blockchain webpages/programs:#
@@ -47,4 +48,6 @@ Aggregating publicly announced research, projects, and programs around blockchai
 9. *[Higher Education and the Blockchain Ecosystem: An Overview](https://evolllution.com/technology/tech-tools-and-resources/higher-education-and-the-blockchain-ecosystem-an-overview/)* by Evolllution, 5/21/2019
 
 
-
+### List of Educational programs, certificates, and offerings around blockchain tech:
+1. [Oxford Blockchain Strategy Programme](https://www.sbs.ox.ac.uk/programmes/oxford-blockchain-strategy-programme)
+2. [ConsenSys Blockchain Academy](https://consensys.net/academy/)
