@@ -11,13 +11,13 @@ Aggregating publicly announced research, projects, and programs around blockchai
 - Research Thesis
 
 
-List of Misc Research to pull from/go through:
+### List of Misc Research to pull from/go through:
 1. [EduCTX: A blockchain-based higher education credit platform](https://www.researchgate.net/publication/320707539_EduCTX_A_blockchain-based_higher_education_credit_platform)
 2. [University of Portsmouth (UK), *Exploiting Smart Contracts and Blockchain Technology: Blueprint for a new AEC Industry* Research Project](https://www.port.ac.uk/study/postgraduate/postgraduate-research/research-degrees/phd/explore-our-projects/exploiting-smart-contracts-and-blockchain-technology-blueprint-for-a-new-aec-industry)
 3. [Deloitte's 2019 Blockchain Survey](https://www2.deloitte.com/content/dam/Deloitte/se/Documents/risk/DI_2019-global-blockchain-survey.pdf)
 
 
-List of University blockchain webpages/programs:
+### List of University blockchain webpages/programs:#
 
 1. [MIT Blockchain](http://blockchain.mit.edu/)
 2. [University of Texas at Austin Blockchain Initiative, McCombs School of Business](https://www.mccombs.utexas.edu/Centers/Blockchain)
@@ -28,14 +28,14 @@ List of University blockchain webpages/programs:
 7. [Stanford's Center for Blockchain Research](https://cbr.stanford.edu/)
 
 
-List of Enterprise-University Blockchain Programs:
+### List of Enterprise-University Blockchain Programs:
 1. [Ripple's University Blockchain Research Initiative](https://ubri.ripple.com/)
 2. [IBM's Global University Research Program](https://www.research.ibm.com/university/) - all tech, but has blockchain mixed in.
 
 
 
 
-List of sources to pull from:
+### List of sources to pull from:
 1. *[Emergence of Blockchain](https://www.insidehighered.com/digital-learning/blogs/online-trending-now/emergence-blockchain)* by Inside Higher Ed
 2. *[How will blockchain transform higher ed?](https://www.ecampusnews.com/2019/03/29/how-will-blockchain-transform-higher-ed-start-with-credentials/) by eCampusNews
 3. *[How Blockchain Technology Will Disrupt Higher Education](https://www.chronicle.com/article/How-Blockchain-Technology-Will/247307)* by The Chronicle of Higher Education
