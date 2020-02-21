@@ -10,6 +10,9 @@ Aggregating publicly announced research, projects, and programs around blockchai
 - Faculty/PI - who is in charge of the project at the University?
 - Research Thesis
 
+### Crypto-based Blockchain Grants
+1. [IOHK Opens Cardano Research Lab at University of Wyoming Following $500K Donation](https://www.coindesk.com/iohk-opens-cardano-research-lab-at-university-of-wyoming-following-500k-donation)
+
 
 ### List of Misc Research to pull from/go through:
 1. [EduCTX: A blockchain-based higher education credit platform](https://www.researchgate.net/publication/320707539_EduCTX_A_blockchain-based_higher_education_credit_platform)
@@ -27,6 +30,7 @@ Aggregating publicly announced research, projects, and programs around blockchai
 5. [University of British Columbia Blockchain Site](https://blockchain.ubc.ca/research/research-projects)
 6. [Yale's OpenLab](https://openlab.yale.edu/) - blockchain seems to be a core focus of current projects on there.
 7. [Stanford's Center for Blockchain Research](https://cbr.stanford.edu/)
+8. [Berkeley Haas Blockchain Initiative](https://haas.berkeley.edu/blockchain/) - through a 5-year partnership with Ripple.
 
 
 ### List of Enterprise-University Blockchain Programs:
