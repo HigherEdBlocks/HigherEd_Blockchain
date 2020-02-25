@@ -56,3 +56,16 @@ Aggregating publicly announced research, projects, and programs around blockchai
 ### List of Educational programs, certificates, and offerings around blockchain tech:
 1. [Oxford Blockchain Strategy Programme](https://www.sbs.ox.ac.uk/programmes/oxford-blockchain-strategy-programme)
 2. [ConsenSys Blockchain Academy](https://consensys.net/academy/)
+
+### Blockchain Enterprise Developments/Docs:
+1. [Microsoft Connectors for Ethereum Blockchain](https://docs.microsoft.com/en-us/connectors/blockchainethereum/)
+2. [Microsoft Connectors for Corda Blockchain](https://docs.microsoft.com/en-us/connectors/blockchaincorda/)
+3. [Azure Blockchain Service documentation](https://docs.microsoft.com/en-us/azure/blockchain/service/)
+
+
+
+
+
+
+
+
