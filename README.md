@@ -1,6 +1,7 @@
 # HigherEd_Blockchain
 Aggregating publicly announced research, projects, and programs around blockchain tech in the higher education ecosystem.
 
+ <!-- 
 ### Template: ###
 
 - University Name
@@ -8,7 +9,7 @@ Aggregating publicly announced research, projects, and programs around blockchai
 - Project Title
 - Project URL - where can people learn more about the project?
 - Faculty/PI - who is in charge of the project at the University?
-- Research Thesis
+- Research Thesis -->
 
 ### Crypto-based Blockchain Grants
 1. [IOHK Opens Cardano Research Lab at University of Wyoming Following $500K Donation](https://www.coindesk.com/iohk-opens-cardano-research-lab-at-university-of-wyoming-following-500k-donation)
